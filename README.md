@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning Python\
 ✉️ &nbsp;You can send me an email at adjeiboyejnr@gmail.com! I'll respond as soon as I can.\
 
-<img alt="Night Coding" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" width="100px" height="100px" align="right"/>
+<img alt="Night Coding" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" width="200px" height="200px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,6 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nii-web)](https://github.com/overgeek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nii-web)](https://github.com/Nii-web/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nii-web&show_icons=true)](https://github.com/overgeek/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nii-web&show_icons=true)](https://github.com/Nii-web/github-readme-stats)
