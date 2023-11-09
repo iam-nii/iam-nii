@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I really enjoy learning laguages and frameworks like C++, C#, .Net. \
+💡 &nbsp;I really enjoy learning laguages and frameworks like C++, C#, .Net. I'm currently a rising intermediate python programmer \
 🎓 &nbsp;I'm currently at St Petersburg State Insistute of Technology, studying Informatics and computer engineering.\
 🌱 &nbsp;I'm on track for learning Python\
 ✉️ &nbsp;You can send me an email at adjeiboyejnr@gmail.com! I'll respond as soon as I can.\
