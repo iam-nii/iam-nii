@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I really enjoy learning laguages and frameworks like C++, C#, .Net. I'm also a rising intermediate python programmer <br/> with knowledge in python data structures and data science \
+💡 &nbsp;I really enjoy learning laguages and frameworks like C++, C#, python, Javascript,Express.js, flask .Net. I'm also a rising Advanced python programmer <br/> with knowledge in python data structures web scraping and automation, web dev with flask and express.js \
 🎓 &nbsp;I'm currently at St Petersburg State Insistute of Technology, studying Informatics and computer engineering.\
-🌱 &nbsp;I'm on track for learning Python\
+🌱 &nbsp;I'm on track for learning Python and Javascript\
 ✉️ &nbsp;You can send me an email at adjeiboyejnr@gmail.com! I'll respond as soon as I can.\
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" width="200px" height="200px" align="right"/>
