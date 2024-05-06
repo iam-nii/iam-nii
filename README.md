@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I really enjoy learning laguages and frameworks like C++, C#, python, Javascript,Express.js, flask .Net. I'm also a rising Advanced python programmer <br/> with knowledge in python data structures web scraping and automation, web dev with flask and express.js \
-🎓 &nbsp;I'm currently at St Petersburg State Insistute of Technology, studying Informatics and computer engineering.\
+🎓 &nbsp;I'm currently at St Petersburg State Instistute of Technology, studying Informatics and computer engineering.\
 🌱 &nbsp;I'm on track for learning Python and Javascript\
 ✉️ &nbsp;You can send me an email at adjeiboyejnr@gmail.com! I'll respond as soon as I can.\
 
